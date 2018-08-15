@@ -1,0 +1,889 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.8.7)  15 AUG 2018 10:25
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Bericht.tex
+(./Bericht.tex
+LaTeX2e <2018-04-01> patch level 5
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/06/05 3.22 The Babel package
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/06/05 3.22 Babel switching mechanism
+)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/babel-german/ngerma
+n.ldf
+Language: ngerman 2018/03/29 v2.10 German support for babel (post-1996 orthogra
+phy)
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/babel-german/ngerma
+nb.ldf
+Language: ngermanb 2018/03/29 v2.10 German support for babel (post-1996 orthogr
+aphy)
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/06/05 3.22 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count89
+)
+Package babel Info: Making " an active character on input line 121.
+)))
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.d
+ef
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks17
+)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen114
+\WF@size=\dimen115
+\c@WF@wrappedlines=\count93
+\WF@box=\box26
+\WF@everypar=\toks18
+Package: wrapfig 2003/01/31  v 3.6
+)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+\col@sep=\dimen116
+\ar@mcellbox=\box27
+\extrarowheight=\dimen117
+\NC@list=\toks19
+\extratabsurround=\skip43
+\backup@length=\skip44
+\ar@cellbox=\box28
+)
+\TX@col@width=\dimen118
+\TX@old@table=\dimen119
+\TX@old@col=\dimen120
+\TX@target=\dimen121
+\TX@delta=\dimen122
+\TX@cols=\count94
+\TX@ftn=\toks20
+)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/subfigure/subfigure.s
+ty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip45
+\subfigcapskip=\skip46
+\subfigcaptopadj=\dimen123
+\subfigbottomskip=\skip47
+\subfigcapmargin=\dimen124
+\subfiglabelskip=\skip48
+\c@subfigure=\count95
+\c@lofdepth=\count96
+\c@subtable=\count97
+\c@lotdepth=\count98
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/subfigure/subfigure.c
+fg)
+\subfig@top=\skip49
+\subfig@bottom=\skip50
+)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box29
+\sift@deathcycles=\count99
+\@vwid@loff=\dimen125
+\@vwid@roff=\dimen126
+) (d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/mwe/mwe.sty
+Package: mwe 2018/03/30 v0.5 Package to support minimal working examples (MWE)
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count100
+)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/blindtext/blindtext.s
+ty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count101
+\c@Blindtext=\count102
+\c@blind@countparstart=\count103
+\blind@countxx=\count104
+\blindtext@numBlindtext=\count105
+\blind@countyy=\count106
+\c@blindlist=\count107
+\c@blindlistlevel=\count108
+\c@blindlist@level=\count109
+\blind@listitem=\count110
+\c@blind@listcount=\count111
+\c@blind@levelcount=\count112
+\blind@mathformula=\count113
+\blind@Mathformula=\count114
+\c@blind@randomcount=\count115
+\c@blind@randommax=\count116
+\c@blind@pangramcount=\count117
+\c@blind@pangrammax=\count118
+))
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/oberdiek/hyphsubst.
+sty
+Package: hyphsubst 2016/05/16 v0.3 Substitute hyphenation patterns (HO)
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.
+sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+Package hyphsubst Info: Redefined: \l@ngerman
+(hyphsubst)             old value: 33
+(hyphsubst)             new value: 4
+(hyphsubst)             \language updated on input line 223.
+) (./Bericht.aux)
+\openout1 = `Bericht.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen127
+\scratchbox=\box30
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen128
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks22
+)
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-bas
+e.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefineke
+ys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.st
+y
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.st
+y
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.
+sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.s
+ty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.s
+ty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds
+.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-
+sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 14.22636pt
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 429.35211pt, 85.35826pt)
+* v-part:(T,H,B)=(56.9055pt, 624.25346pt, 113.81102pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=429.35211pt
+* \textheight=624.25346pt
+* \oddsidemargin=27.31464pt
+* \evensidemargin=13.08827pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 50.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 50.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 50.
+[1
+
+{d:/Programme_HDD/LaTex/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.m
+ap}] (./Bericht.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+ [2] [3])
+\tf@toc=\write3
+\openout3 = `Bericht.toc'.
+
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]|\T1/cmr/m/n/12 Wochentag,
+ []
+
+
+Overfull \hbox (124.62335pt too wide) in paragraph at lines 56--526
+[]
+ []
+
+
+Overfull \hbox (115.36867pt too wide) in paragraph at lines 56--526
+[]
+ []
+
+
+Overfull \hbox (115.36867pt too wide) in paragraph at lines 56--526
+[]
+ []
+
+
+Overfull \hbox (120.36745pt too wide) in paragraph at lines 56--526
+[] 
+ []
+
+[5] [6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 533--535
+
+ []
+
+
+Overfull \hbox (5.68571pt too wide) in paragraph at lines 542--542
+[]\T1/cmr/bx/n/14.4 Kurzbeschreibung der Auf-ga-ben/Projekte wäh-rend der Pra-
+ []
+
+[8]
+<Bilder/activity_lifecycle.png, id=34, 514.92375pt x 665.48625pt>
+File: Bilder/activity_lifecycle.png Graphic file (type png)
+<use Bilder/activity_lifecycle.png>
+Package pdftex.def Info: Bilder/activity_lifecycle.png  used on input line 582.
+
+(pdftex.def)             Requested size: 180.226pt x 232.92368pt.
+ [9 <./Bilder/activity_lifecycle.png>] [10]
+<Bilder/Schaltplan.png, id=44, 347.04657pt x 185.94469pt>
+File: Bilder/Schaltplan.png Graphic file (type png)
+<use Bilder/Schaltplan.png>
+Package pdftex.def Info: Bilder/Schaltplan.png  used on input line 627.
+(pdftex.def)             Requested size: 277.63762pt x 148.75594pt.
+
+Overfull \hbox (62.96156pt too wide) in paragraph at lines 627--630
+ [][] 
+ []
+
+<Bilder/Frequenzgang.png, id=45, 1303.87125pt x 695.59875pt>
+File: Bilder/Frequenzgang.png Graphic file (type png)
+<use Bilder/Frequenzgang.png>
+Package pdftex.def Info: Bilder/Frequenzgang.png  used on input line 654.
+(pdftex.def)             Requested size: 260.76962pt x 139.11728pt.
+
+Overfull \hbox (46.09357pt too wide) in paragraph at lines 654--657
+ [][] 
+ []
+
+[11 <./Bilder/Schaltplan.png> <./Bilder/Frequenzgang.png>]
+<Bilder/Mesurement-Best.PNG, id=51, 726.46407pt x 227.34938pt>
+File: Bilder/Mesurement-Best.PNG Graphic file (type png)
+<use Bilder/Mesurement-Best.PNG>
+Package pdftex.def Info: Bilder/Mesurement-Best.PNG  used on input line 669.
+(pdftex.def)             Requested size: 363.23114pt x 113.67441pt.
+<Bilder/Messureent_SampleRate.PNG, id=52, 728.7225pt x 268.00125pt>
+File: Bilder/Messureent_SampleRate.PNG Graphic file (type png)
+<use Bilder/Messureent_SampleRate.PNG>
+Package pdftex.def Info: Bilder/Messureent_SampleRate.PNG  used on input line 6
+76.
+(pdftex.def)             Requested size: 364.36035pt x 134.00029pt.
+<Bilder/Messurement-tooHeigh.PNG, id=53, 727.21687pt x 226.59656pt>
+File: Bilder/Messurement-tooHeigh.PNG Graphic file (type png)
+<use Bilder/Messurement-tooHeigh.PNG>
+Package pdftex.def Info: Bilder/Messurement-tooHeigh.PNG  used on input line 68
+3.
+(pdftex.def)             Requested size: 363.60754pt x 113.29799pt.
+ [12 <./Bilder/Mesurement-Best.png> <./Bilder/Messureent_SampleRate.PNG> <./Bil
+der/Messurement-tooHeigh.PNG>]
+<Bilder/vergleich.png, id=60, 551.05875pt x 300.3722pt>
+File: Bilder/vergleich.png Graphic file (type png)
+<use Bilder/vergleich.png>
+Package pdftex.def Info: Bilder/vergleich.png  used on input line 693.
+(pdftex.def)             Requested size: 275.52869pt x 150.18571pt.
+
+Overfull \hbox (60.85263pt too wide) in paragraph at lines 693--696
+ [][] 
+ []
+
+<Bilder/blockschaltbild.png, id=61, 966.61125pt x 447.17062pt>
+File: Bilder/blockschaltbild.png Graphic file (type png)
+<use Bilder/blockschaltbild.png>
+Package pdftex.def Info: Bilder/blockschaltbild.png  used on input line 713.
+(pdftex.def)             Requested size: 289.98561pt x 134.15222pt.
+
+Overfull \hbox (32.37173pt too wide) in paragraph at lines 713--716
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 720--721
+\T1/cmr/m/n/10 Ac-tivi-ty (Gra-phAc-tivi-ty) ge-star-tet,
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 720--721
+\T1/cmr/m/n/10 dar-stellt. Die FFT Da-ten kön-nen
+ []
+
+[13 <./Bilder/vergleich.PNG> <./Bilder/blockschaltbild.png>]
+<Bilder/Screenshot_20180327-082929.png, id=68, 1284.8pt x 803.0pt>
+File: Bilder/Screenshot_20180327-082929.png Graphic file (type png)
+<use Bilder/Screenshot_20180327-082929.png>
+Package pdftex.def Info: Bilder/Screenshot_20180327-082929.png  used on input l
+ine 728.
+(pdftex.def)             Requested size: 192.71169pt x 120.4448pt.
+
+Underfull \hbox (badness 1043) in paragraph at lines 738--739
+\T1/cmr/m/n/10 Re-cor-der zu tref-fen. Mit Hil-fe ei-
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 738--739
+\T1/cmr/m/n/10 ner Seek-Bar kann die ge-wünsch-te
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 738--739
+\T1/cmr/m/n/10 ei-nen Spin-ner rea-li-siert. Die Buf-
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 738--739
+\T1/cmr/m/n/10 (Be-rech-nung des Off-sets) ge-star-tet
+ []
+
+<Bilder/Screenshot_20180327-083120.png, id=69, 1284.8pt x 803.0pt>
+File: Bilder/Screenshot_20180327-083120.png Graphic file (type png)
+<use Bilder/Screenshot_20180327-083120.png>
+Package pdftex.def Info: Bilder/Screenshot_20180327-083120.png  used on input l
+ine 741.
+(pdftex.def)             Requested size: 192.71169pt x 120.4448pt.
+
+Underfull \hbox (badness 1132) in paragraph at lines 750--751
+\T1/cmr/m/n/10 die Mes-sung be-gon-nen. Über ei-ne
+ []
+
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+752.
+
+<Bilder/Screenshot_20180327-083144.png, id=70, 1284.8pt x 803.0pt>
+File: Bilder/Screenshot_20180327-083144.png Graphic file (type png)
+<use Bilder/Screenshot_20180327-083144.png>
+Package pdftex.def Info: Bilder/Screenshot_20180327-083144.png  used on input l
+ine 753.
+(pdftex.def)             Requested size: 192.71169pt x 120.4448pt.
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 76
+0.
+
+[14 <./Bilder/Screenshot_20180327-082929.png> <./Bilder/Screenshot_20180327-083
+120.png>]
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 76
+6.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 76
+7.
+
+[15 <./Bilder/Screenshot_20180327-083144.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 810--815
+
+ []
+
+[16]
+<Bilder/1.png, id=80, 1180.41pt x 356.0803pt>
+File: Bilder/1.png Graphic file (type png)
+<use Bilder/1.png>
+Package pdftex.def Info: Bilder/1.png  used on input line 821.
+(pdftex.def)             Requested size: 472.15564pt x 142.4296pt.
+
+Overfull \hbox (42.80353pt too wide) in paragraph at lines 821--824
+ [][] 
+ []
+
+<Bilder/2.png, id=81, 1180.41pt x 356.0803pt>
+File: Bilder/2.png Graphic file (type png)
+<use Bilder/2.png>
+Package pdftex.def Info: Bilder/2.png  used on input line 827.
+(pdftex.def)             Requested size: 472.15564pt x 142.4296pt.
+
+Overfull \hbox (42.80353pt too wide) in paragraph at lines 827--830
+ [][] 
+ []
+
+<Bilder/3.png, id=82, 1179.65718pt x 355.3275pt>
+File: Bilder/3.png Graphic file (type png)
+<use Bilder/3.png>
+Package pdftex.def Info: Bilder/3.png  used on input line 833.
+(pdftex.def)             Requested size: 471.8545pt x 142.12846pt.
+
+Overfull \hbox (42.5024pt too wide) in paragraph at lines 833--836
+ [][] 
+ []
+
+<Bilder/4.png, id=83, 1179.65718pt x 353.82187pt>
+File: Bilder/4.png Graphic file (type png)
+<use Bilder/4.png>
+Package pdftex.def Info: Bilder/4.png  used on input line 840.
+(pdftex.def)             Requested size: 471.8545pt x 141.52623pt.
+
+Overfull \hbox (42.5024pt too wide) in paragraph at lines 840--843
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 91.0363pt on input line 846.
+
+<Bilder/5.png, id=84, 1179.65718pt x 711.4078pt>
+File: Bilder/5.png Graphic file (type png)
+<use Bilder/5.png>
+Package pdftex.def Info: Bilder/5.png  used on input line 852.
+(pdftex.def)             Requested size: 210.38489pt x 126.87552pt.
+<Bilder/6.png, id=85, 1181.16281pt x 712.16063pt>
+File: Bilder/6.png Graphic file (type png)
+<use Bilder/6.png>
+Package pdftex.def Info: Bilder/6.png  used on input line 857.
+(pdftex.def)             Requested size: 210.38489pt x 126.84677pt.
+<Bilder/7.png, id=86, 1179.65718pt x 711.4078pt>
+File: Bilder/7.png Graphic file (type png)
+<use Bilder/7.png>
+Package pdftex.def Info: Bilder/7.png  used on input line 862.
+(pdftex.def)             Requested size: 210.38489pt x 126.87552pt.
+<Bilder/8.png, id=87, 1181.16281pt x 711.4078pt>
+File: Bilder/8.png Graphic file (type png)
+<use Bilder/8.png>
+Package pdftex.def Info: Bilder/8.png  used on input line 867.
+(pdftex.def)             Requested size: 210.38489pt x 126.71269pt.
+<Bilder/9.png, id=88, 1181.16281pt x 713.66624pt>
+File: Bilder/9.png Graphic file (type png)
+<use Bilder/9.png>
+Package pdftex.def Info: Bilder/9.png  used on input line 872.
+(pdftex.def)             Requested size: 210.38489pt x 127.11494pt.
+<Bilder/10.png, id=89, 1181.91562pt x 712.16063pt>
+File: Bilder/10.png Graphic file (type png)
+<use Bilder/10.png>
+Package pdftex.def Info: Bilder/10.png  used on input line 877.
+(pdftex.def)             Requested size: 210.38489pt x 126.75984pt.
+
+Underfull \hbox (badness 3118) in paragraph at lines 851--881
+[][] []
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 851--881
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 892--893
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 892--893
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 909--909
+[][][][]
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 909--910
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 913--915
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 913--915
+
+ []
+
+[17] [18 <./Bilder/1.png> <./Bilder/2.png> <./Bilder/3.png> <./Bilder/4.png>]
+[19 <./Bilder/5.png> <./Bilder/6.png> <./Bilder/7.png> <./Bilder/8.png> <./Bild
+er/9.png> <./Bilder/10.png>]
+Underfull \hbox (badness 10000) in alignment at lines 948--948
+[][][][][][] 
+ []
+
+
+Overfull \hbox (12.43922pt too wide) in paragraph at lines 948--949
+[][] 
+ []
+
+<Bilder/Capture1.png, id=100, 391.4625pt x 357.58594pt>
+File: Bilder/Capture1.png Graphic file (type png)
+<use Bilder/Capture1.png>
+Package pdftex.def Info: Bilder/Capture1.png  used on input line 951.
+(pdftex.def)             Requested size: 195.73076pt x 178.79253pt.
+[20 <./Bilder/Capture1.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 965--966
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--966
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 977--977
+[][][][]
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 977--981
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 977--981
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 977--981
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 1015--1015
+[][][][][][] 
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 1015--1018
+[][]
+ []
+
+<Bilder/blockschaltbild1.png, id=105, 1811.26688pt x 1172.88188pt>
+File: Bilder/blockschaltbild1.png Graphic file (type png)
+<use Bilder/blockschaltbild1.png>
+Package pdftex.def Info: Bilder/blockschaltbild1.png  used on input line 1023.
+(pdftex.def)             Requested size: 362.24696pt x 234.57222pt.
+
+Overfull \hbox (147.5709pt too wide) in paragraph at lines 1023--1026
+ [][] 
+ []
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 10
+30.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1036--1037
+
+ []
+
+[21 <./Bilder/blockschaltbild1.png>]
+<Bilder/Capture2.PNG, id=110, 298.11375pt x 339.51843pt>
+File: Bilder/Capture2.PNG Graphic file (type png)
+<use Bilder/Capture2.PNG>
+Package pdftex.def Info: Bilder/Capture2.PNG  used on input line 1039.
+(pdftex.def)             Requested size: 208.67819pt x 237.66127pt.
+ [22 <./Bilder/Capture2.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 1067--1068
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1067--1068
+
+ []
+
+<Bilder/11.png, id=115, 465.99094pt x 482.55281pt>
+File: Bilder/11.png Graphic file (type png)
+<use Bilder/11.png>
+Package pdftex.def Info: Bilder/11.png  used on input line 1073.
+(pdftex.def)             Requested size: 210.38489pt x 217.86098pt.
+<Bilder/12.png, id=116, 465.99094pt x 484.05844pt>
+File: Bilder/12.png Graphic file (type png)
+<use Bilder/12.png>
+Package pdftex.def Info: Bilder/12.png  used on input line 1078.
+(pdftex.def)             Requested size: 210.38489pt x 218.54073pt.
+<Bilder/13.png, id=117, 464.4853pt x 481.8pt>
+File: Bilder/13.png Graphic file (type png)
+<use Bilder/13.png>
+Package pdftex.def Info: Bilder/13.png  used on input line 1083.
+(pdftex.def)             Requested size: 210.38489pt x 218.2342pt.
+<Bilder/14.png, id=118, 465.23813pt x 484.05844pt>
+File: Bilder/14.png Graphic file (type png)
+<use Bilder/14.png>
+Package pdftex.def Info: Bilder/14.png  used on input line 1088.
+(pdftex.def)             Requested size: 210.38489pt x 218.89526pt.
+
+Underfull \hbox (badness 3118) in paragraph at lines 1072--1092
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1098--1104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1098--1104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1098--1104
+
+ []
+
+[23] [24 <./Bilder/11.png> <./Bilder/12.png> <./Bilder/13.png> <./Bilder/14.png
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 1106--1115
+
+ []
+
+<Bilder/comuml.png, id=125, 1495.08563pt x 1093.08376pt>
+File: Bilder/comuml.png Graphic file (type png)
+<use Bilder/comuml.png>
+Package pdftex.def Info: Bilder/comuml.png  used on input line 1120.
+(pdftex.def)             Requested size: 448.52916pt x 327.92766pt.
+
+Overfull \hbox (19.17705pt too wide) in paragraph at lines 1120--1123
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25] [26 <./Bilder/comuml.png>] [27]
+<Bilder/15.png, id=136, 760.34062pt x 585.68813pt>
+File: Bilder/15.png Graphic file (type png)
+<use Bilder/15.png>
+Package pdftex.def Info: Bilder/15.png  used on input line 1181.
+(pdftex.def)             Requested size: 380.16937pt x 292.84334pt.
+ [28 <./Bilder/15.png>]
+<Bilder/16.png, id=141, 310.15875pt x 551.81157pt>
+File: Bilder/16.png Graphic file (type png)
+<use Bilder/16.png>
+Package pdftex.def Info: Bilder/16.png  used on input line 1196.
+(pdftex.def)             Requested size: 117.86154pt x 209.69057pt.
+<Bilder/17.png, id=142, 308.65312pt x 551.05875pt>
+File: Bilder/17.png Graphic file (type png)
+<use Bilder/17.png>
+Package pdftex.def Info: Bilder/17.png  used on input line 1202.
+(pdftex.def)             Requested size: 117.2894pt x 209.4045pt.
+<Bilder/18.png, id=143, 310.91156pt x 549.55313pt>
+File: Bilder/18.png Graphic file (type png)
+<use Bilder/18.png>
+Package pdftex.def Info: Bilder/18.png  used on input line 1208.
+(pdftex.def)             Requested size: 118.14761pt x 208.83235pt.
+
+Underfull \hbox (badness 1565) in paragraph at lines 1222--1224
+\T1/cmr/m/n/10 zeigt, wie viel Kos-ten ent-ste-hen wür-den, wenn die
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 1222--1224
+\T1/cmr/m/n/10 Ma-schi-ne kor-rekt aus-ge-rich-tet ist. Au-ÿer-dem wird
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 1222--1224
+\T1/cmr/m/n/10 auch die Zu-sam-men-set-zung des Er-geb-nis-ses an-ge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1222--1224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1222--1224
+
+ []
+
+[29 <./Bilder/16.png> <./Bilder/17.png> <./Bilder/18.png>]
+Overfull \hbox (158.14331pt too wide) in paragraph at lines 1242--1272
+\T1/cmr/m/n/10 https://commons.apache.org/proper/commons-validator/apidocs/org/
+apache/commons/validator/routines/InetAddressValidator.html 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1242--1272
+
+ []
+
+[30] (./Bericht.aux) ) 
+Here is how much of TeX's memory you used:
+ 3716 strings out of 492642
+ 53930 string characters out of 6123663
+ 271867 words of memory out of 5000000
+ 7491 multiletter control sequences out of 15000+600000
+ 13998 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,8n,25p,760b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/fonts/enc
+/dvips/cm-super/cm-super-t1.enc}<d:/Programme_HDD/LaTex/texlive/2018/texmf-dist
+/fonts/type1/public/cm-super/sfbx1000.pfb><d:/Programme_HDD/LaTex/texlive/2018/
+texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/Programme_HDD/LaTex/tex
+live/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/Programme_HDD
+/LaTex/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><d:/Pro
+gramme_HDD/LaTex/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.p
+fb><d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/fonts/type1/public/cm-super/
+sfrm1200.pfb><d:/Programme_HDD/LaTex/texlive/2018/texmf-dist/fonts/type1/public
+/cm-super/sfti1000.pfb>
+Output written on Bericht.pdf (30 pages, 1047488 bytes).
+PDF statistics:
+ 178 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 166 words of extra memory for PDF output out of 10000 (max. 10000000)
+

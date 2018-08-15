@@ -1,0 +1,105 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Tagesberichte}{5}
+\contentsline {section}{\numberline {2}Das Unternehmen}{8}
+\contentsline {subsection}{\numberline {2.1}Generell}{8}
+\contentsline {subsection}{\numberline {2.2}Weingarten}{8}
+\contentsline {section}{\numberline {3}Kurzbeschreibung der Aufgaben/Projekte w\IeC {\"a}hrend der Praxisphase}{8}
+\contentsline {subsection}{\numberline {3.1}Auslesen von Sensordaten mit Hilfe eines Android Smartphones}{8}
+\contentsline {subsection}{\numberline {3.2}Vergleich verschiedener Komprimierungsarten}{8}
+\contentsline {subsection}{\numberline {3.3}Ger\IeC {\"a}tekonfigurator \IeC {\"u}ber COM Port}{8}
+\contentsline {subsection}{\numberline {3.4}WebApp: Return of Investment}{8}
+\contentsline {section}{\numberline {4}Projekt 1: Auslesen von Sensordaten mit Android}{9}
+\contentsline {subsection}{\numberline {4.1}Motivation/Aufgabe}{9}
+\contentsline {subsection}{\numberline {4.2}Android}{9}
+\contentsline {subsubsection}{\numberline {4.2.1}Android Studio}{9}
+\contentsline {subsubsection}{\numberline {4.2.2}Android Schnittstellen}{9}
+\contentsline {subsection}{\numberline {4.3}Programmieren einer Android Applikation}{9}
+\contentsline {subsubsection}{\numberline {4.3.1}Activity}{9}
+\contentsline {subsubsection}{\numberline {4.3.2}Layout}{10}
+\contentsline {subsubsection}{\numberline {4.3.3}Gradle}{10}
+\contentsline {subsubsection}{\numberline {4.3.4}Android Manifest}{10}
+\contentsline {subsubsection}{\numberline {4.3.5}Debuggen}{10}
+\contentsline {subsection}{\numberline {4.4}Benutzte Schnittstellen und Bibliotheken}{10}
+\contentsline {subsubsection}{\numberline {4.4.1}Audio Record}{10}
+\contentsline {subsubsection}{\numberline {4.4.2}Graph Viewer}{10}
+\contentsline {subsubsection}{\numberline {4.4.3}TarosDSP}{10}
+\contentsline {subsection}{\numberline {4.5}Hardware und Elektronik}{11}
+\contentsline {subsubsection}{\numberline {4.5.1}Android Device}{11}
+\contentsline {subsubsection}{\numberline {4.5.2}Mikrophon Simulator}{11}
+\contentsline {subsubsection}{\numberline {4.5.3}Frequenzgenerator}{11}
+\contentsline {subsubsection}{\numberline {4.5.4}Sensor}{11}
+\contentsline {subsection}{\numberline {4.6}Ergebnisse}{11}
+\contentsline {subsubsection}{\numberline {4.6.1}Frequenzgang}{11}
+\contentsline {subsubsection}{\numberline {4.6.2}Messwerte}{12}
+\contentsline {subsubsection}{\numberline {4.6.3}Vergleich VIBGUARD und Android}{13}
+\contentsline {subsection}{\numberline {4.7}Fazit/Zusammenfassung}{13}
+\contentsline {subsection}{\numberline {4.8}Code}{13}
+\contentsline {subsubsection}{\numberline {4.8.1}Aufbau}{13}
+\contentsline {subsubsection}{\numberline {4.8.2}GUI}{14}
+\contentsline {subsection}{\numberline {4.9}Technische Begriffserkl\IeC {\"a}rung}{15}
+\contentsline {subsubsection}{\numberline {4.9.1}FFT}{15}
+\contentsline {subsubsection}{\numberline {4.9.2}AD Wandler}{15}
+\contentsline {subsubsection}{\numberline {4.9.3}PCM}{15}
+\contentsline {section}{\numberline {5}Projekt 2: Kompression von Sensordaten}{15}
+\contentsline {subsection}{\numberline {5.1}Einleitung}{15}
+\contentsline {subsubsection}{\numberline {5.1.1}Motivation}{15}
+\contentsline {subsubsection}{\numberline {5.1.2}Fragestellung}{15}
+\contentsline {subsection}{\numberline {5.2}Benutzte Werkzeuge}{15}
+\contentsline {subsubsection}{\numberline {5.2.1}Eclipse}{15}
+\contentsline {subsubsection}{\numberline {5.2.2}Visual Studio 2010}{15}
+\contentsline {subsubsection}{\numberline {5.2.3}SoX}{16}
+\contentsline {subsubsection}{\numberline {5.2.4}TarsosDSP}{16}
+\contentsline {subsection}{\numberline {5.3}Benutzte Formate}{16}
+\contentsline {subsubsection}{\numberline {5.3.1}Comma-Seperated Values (.cms)}{16}
+\contentsline {subsubsection}{\numberline {5.3.2}Extensible Markup Language (.xml)}{16}
+\contentsline {subsubsection}{\numberline {5.3.3}RAW-Daten (.raw)}{16}
+\contentsline {subsubsection}{\numberline {5.3.4}Wave-Dateiformat (.wav)}{16}
+\contentsline {subsubsection}{\numberline {5.3.5}Vorbis Ogg (.ogg)}{16}
+\contentsline {subsubsection}{\numberline {5.3.6}Free Lossless Audio Codec (.flac)}{16}
+\contentsline {subsection}{\numberline {5.4}Vorbis Komprimierung}{17}
+\contentsline {subsubsection}{\numberline {5.4.1}Messdaten}{17}
+\contentsline {subsubsection}{\numberline {5.4.2}Zeit Daten}{17}
+\contentsline {subsubsection}{\numberline {5.4.3}FFT Daten}{17}
+\contentsline {subsubsection}{\numberline {5.4.4}Reduzierung}{17}
+\contentsline {subsection}{\numberline {5.5}Flac Komprimierung}{21}
+\contentsline {subsubsection}{\numberline {5.5.1}Reduzierung}{21}
+\contentsline {subsection}{\numberline {5.6}Code}{21}
+\contentsline {subsubsection}{\numberline {5.6.1}Struktur}{21}
+\contentsline {subsubsection}{\numberline {5.6.2}Format Umwandlung}{22}
+\contentsline {subsection}{\numberline {5.7}Ergebnisse}{22}
+\contentsline {section}{\numberline {6}Projekt 3: Ger\IeC {\"a}tekonfigurator \IeC {\"u}ber COM Port}{22}
+\contentsline {subsection}{\numberline {6.1}Einleitung}{22}
+\contentsline {subsubsection}{\numberline {6.1.1}Motivation}{22}
+\contentsline {subsubsection}{\numberline {6.1.2}Aufgabe}{23}
+\contentsline {subsection}{\numberline {6.2}Benutzte Werkzeuge}{23}
+\contentsline {subsubsection}{\numberline {6.2.1}Eclipse}{23}
+\contentsline {subsubsection}{\numberline {6.2.2}JavaFX}{23}
+\contentsline {subsubsection}{\numberline {6.2.3}Launch4J}{23}
+\contentsline {subsubsection}{\numberline {6.2.4}Inno Setup}{23}
+\contentsline {subsection}{\numberline {6.3}GUI}{23}
+\contentsline {subsection}{\numberline {6.4}Benutzung}{23}
+\contentsline {subsection}{\numberline {6.5}Code}{25}
+\contentsline {subsubsection}{\numberline {6.5.1}Struktur}{25}
+\contentsline {subsubsection}{\numberline {6.5.2}Eingebundene Bibliotheken}{25}
+\contentsline {section}{\numberline {7}Projekt 4: WebApp: Return of Investment}{25}
+\contentsline {subsection}{\numberline {7.1}Aufgabenstellung/Motivation}{25}
+\contentsline {subsection}{\numberline {7.2}Materialien und Methoden}{26}
+\contentsline {subsubsection}{\numberline {7.2.1}NPM}{26}
+\contentsline {subsubsection}{\numberline {7.2.2}React.js}{26}
+\contentsline {subsubsection}{\numberline {7.2.3}React Material UI}{27}
+\contentsline {subsubsection}{\numberline {7.2.4}JSX}{27}
+\contentsline {subsubsection}{\numberline {7.2.5}Redux}{27}
+\contentsline {subsubsection}{\numberline {7.2.6}Hash Router}{27}
+\contentsline {subsubsection}{\numberline {7.2.7}Webpack}{27}
+\contentsline {subsubsection}{\numberline {7.2.8}Babel.js}{27}
+\contentsline {subsubsection}{\numberline {7.2.9}Visual Studio Code}{27}
+\contentsline {subsubsection}{\numberline {7.2.10}Google Chrome}{27}
+\contentsline {subsection}{\numberline {7.3}Vorlage/ Original}{28}
+\contentsline {subsection}{\numberline {7.4}Ergebnisse}{29}
+\contentsline {subsubsection}{\numberline {7.4.1}User Interface}{29}
+\contentsline {subsection}{\numberline {7.5}Code}{29}
+\contentsline {subsubsection}{\numberline {7.5.1}JavaScript}{29}
+\contentsline {subsubsection}{\numberline {7.5.2}HTML}{29}
+\contentsline {subsubsection}{\numberline {7.5.3}CSS}{30}
+\contentsline {section}{\numberline {8}Quellenverzeichnis}{30}
+\contentsline {section}{\numberline {9}Abbildungsverzeichnis}{30}
